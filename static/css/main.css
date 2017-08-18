@@ -8,8 +8,9 @@ html, body, h1 {
 }
 
 body {
-  background-color: #f4f4f4;
+  background-color: white;
   font-family: 'Open Sans', sans-serif;
+  height: 100%;
 }
 
 h2 {
